@@ -1,0 +1,150 @@
+#EXTM3U
+# 1080P+AAC candidates; proxy checks only; household/Android/rights/7-day validation pending.
+# User import replaces the existing imported playlist.
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-1" group-title="央视·1080P试播",CCTV-1综合
+http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-2" group-title="央视·1080P试播",CCTV-2财经
+http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-3" group-title="央视·1080P试播",CCTV-3综艺
+http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-4" group-title="央视·1080P试播",CCTV-4中文国际
+http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-5" group-title="央视·1080P试播",CCTV-5体育
+http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-6" group-title="央视·1080P试播",CCTV-6电影
+http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-7" group-title="央视·1080P试播",CCTV-7国防军事
+http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-8" group-title="央视·1080P试播",CCTV-8电视剧
+http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-9" group-title="央视·1080P试播",CCTV-9纪录
+http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-10" group-title="央视·1080P试播",CCTV-10科教
+http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-11" group-title="央视·1080P试播",CCTV-11戏曲
+http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-12" group-title="央视·1080P试播",CCTV-12社会与法
+http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-13" group-title="央视·1080P试播",CCTV-13新闻
+http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-14" group-title="央视·1080P试播",CCTV-14少儿
+http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-15" group-title="央视·1080P试播",CCTV-15音乐
+http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-16" group-title="央视·1080P试播",CCTV-17
+http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-17" group-title="央视·1080P试播",CCTV-5+体育赛事
+http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-18" group-title="央视·1080P试播",CETV1
+http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-19" group-title="卫视·1080P试播",浙江卫视
+http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-20" group-title="卫视·1080P试播",东方卫视
+http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-21" group-title="卫视·1080P试播",江苏卫视
+http://219.150.217.47:6610/PLTV1/1000/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-22" group-title="卫视·1080P试播",北京卫视
+http://219.150.217.47:6610/PLTV1/1020/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-23" group-title="卫视·1080P试播",广东卫视
+http://219.150.217.47:6610/PLTV1/1040/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-25" group-title="卫视·1080P试播",山东卫视
+http://219.150.217.47:6610/PLTV1/1080/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-26" group-title="卫视·1080P试播",安徽卫视
+http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-27" group-title="卫视·1080P试播",辽宁卫视
+http://219.150.217.47:6610/PLTV1/1120/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-28" group-title="卫视·1080P试播",陕西卫视
+http://219.150.217.47:6610/PLTV1/1140/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-29" group-title="卫视·1080P试播",河北卫视
+http://219.150.217.47:6610/PLTV1/1180/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-30" group-title="卫视·1080P试播",江西卫视
+http://219.150.217.47:6610/PLTV1/1200/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-31" group-title="卫视·1080P试播",湖南卫视
+http://219.150.217.47:6610/PLTV1/1220/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-32" group-title="卫视·1080P试播",深圳卫视
+http://219.150.217.47:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-33" group-title="卫视·1080P试播",四川卫视
+http://219.150.217.47:6610/PLTV1/1260/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-34" group-title="卫视·1080P试播",湖北卫视
+http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-35" group-title="卫视·1080P试播",天津卫视
+http://219.150.217.47:6610/PLTV1/1300/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-36" group-title="卫视·1080P试播",云南卫视
+http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-37" group-title="卫视·1080P试播",重庆卫视
+http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-38" group-title="卫视·1080P试播",吉林卫视
+http://219.150.217.47:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-39" group-title="卫视·1080P试播",东南卫视
+http://219.150.217.47:6610/PLTV1/1400/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-40" group-title="卫视·1080P试播",广西卫视
+http://219.150.217.47:6610/PLTV1/1440/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-41" group-title="卫视·1080P试播",海南卫视
+http://219.150.217.47:6610/PLTV1/1480/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-42" group-title="卫视·1080P试播",甘肃卫视
+http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-43" group-title="河南·1080P试播",河南卫视
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=true; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-45" group-title="河南·1080P试播",河南都市
+http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-46" group-title="河南·1080P试播",河南民生
+http://219.150.217.47:6610/PLTV1/620/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-47" group-title="河南·1080P试播",河南法治
+http://219.150.217.47:6610/PLTV1/640/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-48" group-title="河南·1080P试播",河南电视剧
+http://219.150.217.47:6610/PLTV1/660/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-51" group-title="河南·1080P试播",河南新闻
+http://219.150.217.47:6610/PLTV1/720/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-52" group-title="河南·1080P试播",河南公共
+http://219.150.217.47:6610/PLTV1/760/index.m3u8?icpid=dxrm1
+# CHECK: decoded=1920x1080 audio=AAC; continuity60s=false; visual-logo=matched
+#EXTINF:-1 tvg-id="hnct-53" group-title="河南·1080P试播",河南乡村
+http://219.150.217.47:6610/PLTV1/780/index.m3u8?icpid=dxrm1
