@@ -1,0 +1,8 @@
+{
+  "packageName": "cn.livingtv.tv",
+  "versionCode": 35,
+  "versionName": "0.1.34-test",
+  "notes": "后台播放保护、队列可靠保存、可信元数据、家庭媒体索引、分层可播检测、来源管理、遥控焦点、断点更新、家长主题管理、音乐歌单与歌词校准；真机回归待执行。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.34-test/living-tv-tv-0.1.34-test.apk",
+  "sha256": "7116e4a76e41fa7fc7dd2b74f9095c70013975ccc97ef18920f8fcf47be56641"
+}
