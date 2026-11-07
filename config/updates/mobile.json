@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.mobile",
-  "versionCode": 35,
-  "versionName": "0.1.34-test",
-  "notes": "后台播放保护、队列可靠保存、可信元数据、家庭媒体索引、分层可播检测、来源管理、遥控焦点、断点更新、家长主题管理、音乐歌单与歌词校准；真机回归待执行。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.34-test/living-tv-mobile-0.1.34-test.apk",
-  "sha256": "a245539ee4eb0766c89693c1c089ab3e29f5699924e162371b86337be72f3a49"
+  "versionCode": 36,
+  "versionName": "0.1.35-test",
+  "notes": "修正电视遥控OK键焦点与播放入口、少儿空片单浏览引导；音乐失败保留原因并可重试，解析/连接限时；加入同步解码兼容及播放故障信息。电视端1004仍需安装复测。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.35-test/living-tv-mobile-0.1.35-test.apk",
+  "sha256": "661ac6654ba263e6e930bf25280262c294c691ef6f320427a199381238e2e070"
 }
