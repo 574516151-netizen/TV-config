@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.tv",
-  "versionCode": 36,
-  "versionName": "0.1.35-test",
-  "notes": "修正电视遥控OK键焦点与播放入口、少儿空片单浏览引导；音乐失败保留原因并可重试，解析/连接限时；加入同步解码兼容及播放故障信息。电视端1004仍需安装复测。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.35-test/living-tv-tv-0.1.35-test.apk",
-  "sha256": "6d7c94cfbe4eec189c1a8ee3871a54289c711d6b879dbf2ff187630ed2bf8232"
+  "versionCode": 37,
+  "versionName": "0.1.36-test",
+  "notes": "修复已在安卓复现的直播1004与音乐音频空缓冲区异常；手机和TV共用修复及统一版本配置。保留影视遥控、少儿家长管理和队列设置。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.36-test/living-tv-tv-0.1.36-test.apk",
+  "sha256": "f26c8b5a7479eaa633fec9851662eb6961ddcc4cc69150a99306be971ab2073b"
 }
