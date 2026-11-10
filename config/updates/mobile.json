@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.mobile",
-  "versionCode": 37,
-  "versionName": "0.1.36-test",
-  "notes": "修复已在安卓复现的直播1004与音乐音频空缓冲区异常；手机和TV共用修复及统一版本配置。保留影视遥控、少儿家长管理和队列设置。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.36-test/living-tv-mobile-0.1.36-test.apk",
-  "sha256": "da6e909809947f04555ffc1d8fc2bddb23860b58a8df00c4628aa3094bdeb617"
+  "versionCode": 38,
+  "versionName": "0.1.37-test",
+  "notes": "修复选集后详情遮住播放器，返回时恢复详情；手机版轻触画面重新显示控制。影视线路失败显示原因并可重试；识别音乐源占位音频。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.37-test/living-tv-mobile-0.1.37-test.apk",
+  "sha256": "3858e9e03cdccfc362fb6067f0918040c17ac9382444315ec668e280befc9b75"
 }
