@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.mobile",
-  "versionCode": 38,
-  "versionName": "0.1.37-test",
-  "notes": "修复选集后详情遮住播放器，返回时恢复详情；手机版轻触画面重新显示控制。影视线路失败显示原因并可重试；识别音乐源占位音频。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.37-test/living-tv-mobile-0.1.37-test.apk",
-  "sha256": "3858e9e03cdccfc362fb6067f0918040c17ac9382444315ec668e280befc9b75"
+  "versionCode": 39,
+  "versionName": "0.1.38-test",
+  "notes": "双端同步升级：接入网易云/JOOX可信多源音乐与歌词解析（严格核验原唱版本与时长，拦截占位及试听片段）；影视过滤网页分享链接、补充非凡源并优化弱网缓冲超时与自动检索备用线；少儿优先1080/非凡源并支持多线自动回退。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.38-test/living-tv-mobile-0.1.38-test.apk",
+  "sha256": "a8da9709e91bf25771c47e5e1d02952d354ba0debe3c0cab9f7eb71201a0ced0"
 }
