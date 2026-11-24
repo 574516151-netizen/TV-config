@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.tv",
-  "versionCode": 39,
-  "versionName": "0.1.38-test",
-  "notes": "双端同步升级：接入网易云/JOOX可信多源音乐与歌词解析（严格核验原唱版本与时长，拦截占位及试听片段）；影视过滤网页分享链接、补充非凡源并优化弱网缓冲超时与自动检索备用线；少儿优先1080/非凡源并支持多线自动回退。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.38-test/living-tv-tv-0.1.38-test.apk",
-  "sha256": "4505b99e47b72a03e5c84e02386af9586b095a75433b9046836778c88da9a13b"
+  "versionCode": 40,
+  "versionName": "0.1.39-test",
+  "notes": "双端同步修复Android运行时WebDAV目录XML解析异常（显式拦截DOCTYPE/ENTITY并兼容Android内置DOM解析器，恢复Basic Auth WebDAV列目录、加密凭据存储与1080P播放），同步修复Windows PowerShell 5.1设备采样脚本编码，并完成MuMu Android 15全功能双端端到端验收。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.39-test/living-tv-tv-0.1.39-test.apk",
+  "sha256": "f5898faff2aa99fb826d6827bae71f3b6aa68dcceb3f10a066fe797488325e08"
 }
