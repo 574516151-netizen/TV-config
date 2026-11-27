@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.tv",
-  "versionCode": 40,
-  "versionName": "0.1.39-test",
-  "notes": "双端同步修复Android运行时WebDAV目录XML解析异常（显式拦截DOCTYPE/ENTITY并兼容Android内置DOM解析器，恢复Basic Auth WebDAV列目录、加密凭据存储与1080P播放），同步修复Windows PowerShell 5.1设备采样脚本编码，并完成MuMu Android 15全功能双端端到端验收。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.39-test/living-tv-tv-0.1.39-test.apk",
-  "sha256": "f5898faff2aa99fb826d6827bae71f3b6aa68dcceb3f10a066fe797488325e08"
+  "versionCode": 41,
+  "versionName": "0.1.40-test",
+  "notes": "双端同步体验大升级：少儿专区取消默认PIN限制并重构为左右分栏（点击栏目右侧立刻显示动画点击即播，热门动画置顶）；影视清理静态老片、按2026/2025当季新片优先排序、接入电影天堂/爱坤/魔都等5组实测高速公开源并加入开播多线路2秒竞速优选；音乐修复长时间卡死并接入国内直连网易云320K高速源+QQ高音质多源并发解析。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.40-test/living-tv-tv-0.1.40-test.apk",
+  "sha256": "b19483054b91021901c1426d62ff304e17cb22ac64a6efd88681710f65f8c77c"
 }
