@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.tv",
-  "versionCode": 41,
-  "versionName": "0.1.40-test",
-  "notes": "双端同步体验大升级：少儿专区取消默认PIN限制并重构为左右分栏（点击栏目右侧立刻显示动画点击即播，热门动画置顶）；影视清理静态老片、按2026/2025当季新片优先排序、接入电影天堂/爱坤/魔都等5组实测高速公开源并加入开播多线路2秒竞速优选；音乐修复长时间卡死并接入国内直连网易云320K高速源+QQ高音质多源并发解析。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.40-test/living-tv-tv-0.1.40-test.apk",
-  "sha256": "b19483054b91021901c1426d62ff304e17cb22ac64a6efd88681710f65f8c77c"
+  "versionCode": 42,
+  "versionName": "0.1.41-test",
+  "notes": "双端同步体验与手机竖屏深度优化：修复少儿专区20分钟会话到期后点击卡片无反馈问题（新增醒目“开启新一轮”横幅与一键续时弹窗，并清理顶部多余调试域名）；全面适配手机竖屏布局（少儿、音乐/K歌、电影/电视剧目录与详情弹窗及顶部状态栏安全边距）；影视多线路重名自动区分（如“1080P超清源 · 线路2”），TV大屏与手机横竖屏均清晰易用。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.41-test/living-tv-tv-0.1.41-test.apk",
+  "sha256": "915d4334c0fd9595dff9ecdca5d6fa0c8eedfb07cc339fad8129f028e6587a26"
 }
