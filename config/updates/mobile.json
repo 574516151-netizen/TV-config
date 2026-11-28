@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.mobile",
-  "versionCode": 42,
-  "versionName": "0.1.41-test",
-  "notes": "双端同步体验与手机竖屏深度优化：修复少儿专区20分钟会话到期后点击卡片无反馈问题（新增醒目“开启新一轮”横幅与一键续时弹窗，并清理顶部多余调试域名）；全面适配手机竖屏布局（少儿、音乐/K歌、电影/电视剧目录与详情弹窗及顶部状态栏安全边距）；影视多线路重名自动区分（如“1080P超清源 · 线路2”），TV大屏与手机横竖屏均清晰易用。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.41-test/living-tv-mobile-0.1.41-test.apk",
-  "sha256": "99e895a441029865e188b03207fc92ba57ada30304adc52e7fa700eb413936fe"
+  "versionCode": 43,
+  "versionName": "0.1.42-test",
+  "notes": "双端同步影视与音乐片库质量升级：影视播前竞速升级为真实TS切片速率测速并置顶非凡/电影天堂高速源，修复电视剧空分类并补全港台/日韩/欧美/动漫首屏片库，彻底过滤福利/擦边/AI漫剧；音乐首页升级为网易云热歌/飙升/新歌主流榜单且支持直连秒播，升级网易云云端搜索与JOOX高速回退显著提升周杰伦/王菲等高版权原唱320K命中率。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.42-test/living-tv-mobile-0.1.42-test.apk",
+  "sha256": "f8de46d395038fcaf541c9485cf80e084e09586cac0b87b8aed25f1250da7f47"
 }
