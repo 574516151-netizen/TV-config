@@ -1,8 +1,8 @@
 {
   "packageName": "cn.livingtv.tv",
-  "versionCode": 43,
-  "versionName": "0.1.42-test",
-  "notes": "双端同步影视与音乐片库质量升级：影视播前竞速升级为真实TS切片速率测速并置顶非凡/电影天堂高速源，修复电视剧空分类并补全港台/日韩/欧美/动漫首屏片库，彻底过滤福利/擦边/AI漫剧；音乐首页升级为网易云热歌/飙升/新歌主流榜单且支持直连秒播，升级网易云云端搜索与JOOX高速回退显著提升周杰伦/王菲等高版权原唱320K命中率。",
-  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.42-test/living-tv-tv-0.1.42-test.apk",
-  "sha256": "d3196a8831f233e147b0fb48812513e9e4c50d0e46cbba510f5b8a43e411f2c9"
+  "versionCode": 44,
+  "versionName": "0.1.43-test",
+  "notes": "双端同步重磅升级：电影与电视剧首页接入豆瓣实时热榜并自动匹配非凡/电影天堂1080P高速片源，热门2026新片新剧直接置顶；修复影视搜索跨区搜不到（电视剧区搜《流浪地球》《抓娃娃》现可直出）并新增中文输入框与拼音首字母扩展（如输入PFD/LLDQ/QYN直搜全网片源）；修复少儿儿歌多多/SSS动画2004报错，接入国内高速镜像与贝乐虎/熊出没/猪猪侠/猫和老鼠等热门动画。",
+  "apkUrl": "https://github.com/574516151-netizen/TV-config/releases/download/v0.1.43-test/living-tv-tv-0.1.43-test.apk",
+  "sha256": "7448a0a6ff859527c8a5d71791af66c8f4be823a7296ffea9fedf5b290f97591"
 }
